@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="show_notification">Show notification</string>
+    <string name="you_clicked_on_task_notification">You clicked on task notification</string>
+</resources>
